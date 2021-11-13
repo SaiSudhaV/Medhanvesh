@@ -7606,14 +7606,14 @@ h1, h2, h3, h4, h5,
       width: calc(100% - 130px); }
       .ftco-about ul.about-info li span:first-child {
         font-weight: 600;
-        color: #000000;
+        color: #fff;
         width: 130px; }
 
 .ftco-about .counter-wrap .text p {
   font-size: 20px; }
   .ftco-about .counter-wrap .text p span {
     font-weight: 400;
-    color: #000000; }
+    color: #fff; }
   .ftco-about .counter-wrap .text p span.number {
     font-weight: 600;
     color: #3e64ff; }
@@ -7928,7 +7928,7 @@ h1, h2, h3, h4, h5,
     font-size: 24px; }
 
 .ftco-section {
-  padding: 7em 0;
+  padding: 1em 0;
   position: relative; }
   @media (max-width: 767.98px) {
     .ftco-section {
@@ -7944,31 +7944,31 @@ h1, h2, h3, h4, h5,
   background: #3c312e; }
 
 .ftco-footer {
-  font-size: 20px;
+  font-size: 17px;
   background: rgba(0, 0, 0, 0.65);
   padding: 3em 0;
   z-index: 0; }
   .ftco-footer .ftco-footer-logo {
     text-transform: uppercase;
-    letter-spacing: .1em; }
+    letter-spacing: .001em; }
   .ftco-footer .ftco-footer-widget h2 {
     font-weight: normal;
     color: #fff;
-    margin-bottom: 40px;
+    margin-bottom: 0px;
     font-size: 22px;
     font-weight: 600; }
   .ftco-footer .ftco-footer-widget ul li {
-    margin-bottom: 10px; }
+    margin-bottom: 0px; }
     .ftco-footer .ftco-footer-widget ul li a {
       color: rgba(255, 255, 255); }
       .ftco-footer .ftco-footer-widget ul li a span {
         color: rgba(255, 255, 255); }
   .ftco-footer .ftco-footer-widget .btn-primary {
     background: #fff !important;
-    border: 2px solid #fff !important; }
+    border: 1px solid #fff !important; }
     .ftco-footer .ftco-footer-widget .btn-primary:hover {
       background: #fff;
-      border: 2px solid #fff !important; }
+      border: 1px solid #fff !important; }
   .ftco-footer p {
     color: rgba(255, 255, 255); }
   .ftco-footer li {
@@ -7984,7 +7984,7 @@ h1, h2, h3, h4, h5,
 
 .ftco-footer-social li {
   list-style: none;
-  margin: 0 10px 0 0;
+  margin: 0 5px 0 0;
   display: inline-block; }
   .ftco-footer-social li a {
     height: 50px;
